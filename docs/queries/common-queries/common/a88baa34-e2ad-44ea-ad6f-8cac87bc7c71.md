@@ -23,7 +23,7 @@ hide:
 -   **URL:** [Github](https://github.com/Checkmarx/kics/tree/master/assets/queries/common/passwords_and_secrets)
 
 ### Description
-Query to find passwords and secrets in infrastructure code.<br>
+Password and Secrets shouldn't be displayed in plain text on IaC files.<br>
 [Documentation](https://docs.kics.io/latest/secrets/)
 
 ### Code samples
